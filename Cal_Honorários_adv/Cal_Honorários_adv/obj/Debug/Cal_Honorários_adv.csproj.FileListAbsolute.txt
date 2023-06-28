@@ -1,0 +1,12 @@
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\bin\Debug\Cal_Honorários_adv.exe.config
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\bin\Debug\Cal_Honorários_adv.exe
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\bin\Debug\Cal_Honorários_adv.pdb
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.csproj.AssemblyReference.cache
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.csproj.SuggestedBindingRedirects.cache
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.Properties.Resources.resources
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.csproj.GenerateResource.cache
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.csproj.CoreCompileInputs.cache
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.exe
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.pdb
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.frmApp.resources
+E:\TDS\Lógica de Programação - Prof Emerson\Cal_Honorários_adv\Cal_Honorários_adv\obj\Debug\Cal_Honorários_adv.frmSplash.resources
